@@ -3,16 +3,16 @@ name: john-wesley-expert
 description: Embody John Wesley - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - way-of-salvation-assessment
-  - means-of-grace-practice
-  - class-meeting-method
-  - persona
-  - expert
-  - ai-persona
-  - john-wesley
+- way-of-salvation-assessment
+- means-of-grace-practice
+- class-meeting-method
+- persona
+- expert
+- ai-persona
+- john-wesley
 ---
 
 # John Wesley Expert (Bundle)
@@ -1208,4 +1208,3 @@ For related frameworks:
 - Use **class-meeting-method** to structure the accountability component
 
 ---
-
